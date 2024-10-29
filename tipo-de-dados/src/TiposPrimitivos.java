@@ -1,4 +1,4 @@
-public class App {
+public class TiposPrimitivos {
     public static void main(String[] args)  {
 
         // Aula 07 - Giuliana Bezerra YT - https://youtu.be/hyqgGPqHuKg?si=rqAhtzs-XbYd0UcX
@@ -50,7 +50,22 @@ public class App {
 
                     boolean ehIgual = valor1 == valor2;
                     System.out.println(ehIgual);
+
+                    
+
+                            //TIPOS REFERÊNCIA - AULA 8
+
+                            //https://youtu.be/D9hANYbPYCc?si=443cyOcn6hg7TJr0
+
+                                Calculadora calculadora = new Calculadora();
+                                System.out.println(calculadora);
+                                
+
+
             }
+
+
+
 
     // Criar Método SOMA
 
